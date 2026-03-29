@@ -4,14 +4,6 @@
   <strong>Compile classical ML models to native C. Serve them in microseconds.</strong>
 </p>
 
-<p align="center">
-  <a href="https://kossisoroyce.github.io/timber/">Documentation</a> ·
-  <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="https://pypi.org/project/timber-compiler/">PyPI</a> ·
-  <a href="paper/timber_paper.pdf">Technical Paper</a> ·
-  <a href="skill.md">Agent Skill</a>
-</p>
-
 ---
 
 Timber takes a trained ML model — XGBoost, LightGBM, scikit-learn, CatBoost, ONNX (tree ensembles, linear models, SVMs), or a **URDF robot description** — runs it through a multi-pass optimizing compiler, and emits a **self-contained C99 inference artifact** with zero runtime dependencies. A built-in HTTP server (Ollama-compatible API) lets you serve any model — local file or remote URL — in one command.
