@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://pypi.org/project/timber-compiler/"><img src="https://img.shields.io/pypi/v/timber-compiler.svg" alt="PyPI version"></a>
-  <a href="https://pypi.org/project/timber-compiler/"><img src="https://img.shields.io/pypi/pyversions/timber-compiler.svg" alt="Python versions"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache-2.0"></a>
-  <a href="https://codecov.io/gh/kossisoroyce/timber"><img src="https://codecov.io/gh/kossisoroyce/timber/branch/main/graph/badge.svg" alt="Coverage"></a>
-</p>
-
-<p align="center">
   <a href="https://kossisoroyce.github.io/timber/">Documentation</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://pypi.org/project/timber-compiler/">PyPI</a> ·
