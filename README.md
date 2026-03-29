@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kossisoroyce/timber/actions/workflows/ci.yml"><img src="https://github.com/kossisoroyce/timber/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI"></a>
   <a href="https://pypi.org/project/timber-compiler/"><img src="https://img.shields.io/pypi/v/timber-compiler.svg" alt="PyPI version"></a>
   <a href="https://pypi.org/project/timber-compiler/"><img src="https://img.shields.io/pypi/pyversions/timber-compiler.svg" alt="Python versions"></a>
-  <a href="https://pypi.org/project/timber-compiler/"><img src="https://img.shields.io/pypi/dm/timber-compiler.svg" alt="Monthly downloads"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache-2.0"></a>
   <a href="https://codecov.io/gh/kossisoroyce/timber"><img src="https://codecov.io/gh/kossisoroyce/timber/branch/main/graph/badge.svg" alt="Coverage"></a>
 </p>
@@ -377,7 +375,6 @@ The full paper is available at [`paper/timber_paper.pdf`](paper/timber_paper.pdf
 - **Security policy:** [`SECURITY.md`](SECURITY.md)
 - **Changelog:** [`CHANGELOG.md`](CHANGELOG.md)
 
-Bugs and feature requests: [open an issue](https://github.com/kossisoroyce/timber/issues). Questions: [start a discussion](https://github.com/kossisoroyce/timber/discussions).
 
 ---
 
@@ -387,7 +384,7 @@ Timber is developed and maintained by [Electricsheep Africa](https://github.com/
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/electricsheepafrica)
 
-We're also building a hosted library of compiled models — if you have high-performance models you'd like to contribute, [get in touch](https://github.com/kossisoroyce/timber/discussions).
+We're also building a hosted library of compiled models — if you have high-performance models you'd like to contribute.
 
 ---
 
