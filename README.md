@@ -360,7 +360,7 @@ If you use Timber in research or production, please cite the accompanying techni
   year         = {2026},
   howpublished = {GitHub repository and technical paper},
   institution  = {Electricsheep Africa},
-  url          = {https://github.com/kossisoroyce/timber}
+  url          = {https://github.com/MSI-DEV/timber}
 }
 ```
 
@@ -380,7 +380,7 @@ The full paper is available at [`paper/timber_paper.pdf`](paper/timber_paper.pdf
 
 ## Support the Project
 
-Timber is developed and maintained by [Electricsheep Africa](https://github.com/electricsheepafrica). If Timber saves your team engineering time, consider supporting continued development:
+Timber is developed and maintained by [Electricsheep Africa]. If Timber saves your team engineering time, consider supporting continued development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/electricsheepafrica)
 
